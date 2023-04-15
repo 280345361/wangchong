@@ -27,5 +27,5 @@
           "
        >
          <p>版权所有: wangchong.com</p>
-         <a href="https://kangwenchang.com">我的网站</p>
+         <a href="https://280345361.github.io/wangchong/">我的网站</p>
        </div>

@@ -6,7 +6,7 @@
       padding: 40px;
       "
     >
-      <img alt="王冲" src="https://kangwenchang.com/logo.png" width="80px" height="80px"
+      <img alt="王冲" src="https://kangwenchang.com/logo.png" width="80px" height="80px">
     </div>
     <div style="
       max-width: 760px;

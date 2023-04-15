@@ -1,4 +1,4 @@
-  </head>
+
   <body style="margin: 0;">
     <div style="
       backgrond-color: #f1f1f1;
@@ -29,4 +29,3 @@
          <p>版权所有: wangchong.com</p>
          <a href="https://kangwenchang.com">我的网站</p>
        </div>
-    </style>
